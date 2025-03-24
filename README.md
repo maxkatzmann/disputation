@@ -1,9 +1,11 @@
 # disputation
 
-The code used to generate the slides for my disputation and the corresponding
-video. The main frameworks used are [manim](https://www.manim.community) and
-the hyperbolic extension thereof, called
-[hmanim](https://maxkatzmann.github.io/hmanim/).
+[![Video](https://img.youtube.com/vi/OuHBBrLgHII/0.jpg)](https://youtu.be/OuHBBrLgHII "Watch the video")
+
+This repository contains the code used to generate the slides for my
+disputation and the corresponding video shown above. The main frameworks used
+are [manim](https://www.manim.community) and the hyperbolic extension
+thereof, called [hmanim](https://maxkatzmann.github.io/hmanim/).
 
 ## Installation
 
