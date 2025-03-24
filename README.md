@@ -23,6 +23,8 @@ Following the installation, you can render the video file representing a slide u
 python -m manim -p slide2.py Slide2
 ```
 
+_The `-p` flag is used to preview the video after rendering._
+
 For other slides just replace the `2`s above with the corresponding slide
 number. I recommend **not** starting with slide 1, since that is rather
 expensive to render.
