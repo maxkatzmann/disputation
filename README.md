@@ -4,8 +4,8 @@
 
 This repository contains the code used to generate the slides for my
 disputation and the corresponding video shown above. The main frameworks used
-are [manim](https://www.manim.community) and the hyperbolic extension
-thereof, called [hmanim](https://maxkatzmann.github.io/hmanim/).
+are [Manim](https://www.manim.community) and the hyperbolic extension
+thereof, called [HManim](https://maxkatzmann.github.io/hmanim/).
 
 ## Installation
 
